@@ -35,7 +35,7 @@ if direction == "left":
     else:
         print("game over")
 else:
-    print("game over")
+    print("you fell into the pit hole........\n'game over'")
 
 
 
