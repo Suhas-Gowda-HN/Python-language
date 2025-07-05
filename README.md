@@ -11,3 +11,5 @@ Day 2 - Tip Calculator
 Day 3 - Find Treasure 
 <br>
 Day 4 - (Rock , Paper , Scissor) Game
+<br>
+Day 5 - Password Generator
