@@ -13,3 +13,5 @@ Day 3 - Find Treasure
 Day 4 - (Rock , Paper , Scissor) Game
 <br>
 Day 5 - Password Generator
+<br>
+Day 7 - Hangman Game
