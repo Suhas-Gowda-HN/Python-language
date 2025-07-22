@@ -1,4 +1,4 @@
-#this is the hangman game , try it out with your friends
+#This is the hangman game , try it out with your friends
 
 import random
 
