@@ -15,3 +15,5 @@ Day 4 - (Rock , Paper , Scissor) Game
 Day 5 - Password Generator
 <br>
 Day 7 - Hangman Game
+<br>
+Day 8 - Caesar Cipher (encoding and decoding)
